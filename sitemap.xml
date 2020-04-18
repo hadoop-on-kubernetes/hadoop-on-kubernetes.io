@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<urlset xmlns="http://www.google.com/schemas/sitemap/0.84" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+		<url>
+			<loc>https://hokstack.io</loc>
+			<changefreq>always</changefreq>
+		</url>
+
+		<url>
+			<loc>https://hokstack.io/index.html</loc>
+			<changefreq>always</changefreq>
+		</url>
+
+		<url>
+			<loc>https://hokstack.io/#header</loc>
+			<changefreq>always</changefreq>
+		</url>
+
+		<url>
+			<loc>https://hokstack.io/#whyhokstack</loc>
+			<changefreq>always</changefreq>
+		</url>
+
+		<url>
+			<loc>https://hokstack.io/#features</loc>
+			<changefreq>always</changefreq>
+		</url>
+
+		<url>
+			<loc>https://hokstack.io/#details</loc>
+			<changefreq>always</changefreq>
+		</url>
+
+		<url>
+			<loc>https://hokstack.io/#video</loc>
+			<changefreq>always</changefreq>
+		</url>
+
+		<url>
+			<loc>https://hokstack.io/#tab-1</loc>
+			<changefreq>always</changefreq>
+		</url>
+
+		<url>
+			<loc>https://hokstack.io/#tab-2</loc>
+			<changefreq>always</changefreq>
+		</url>
+
+		<url>
+			<loc>https://hokstack.io/#tab-3</loc>
+			<changefreq>always</changefreq>
+		</url>
+
+		<url>
+			<loc>https://hokstack.io/image-credits</loc>
+			<changefreq>always</changefreq>
+		</url>
+
+	</urlset>
+
