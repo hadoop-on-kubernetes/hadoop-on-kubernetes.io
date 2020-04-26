@@ -2,9 +2,9 @@ User-agent: *
 Allow: /
 
 User-agent: Googlebot-Image
-Disallow: /
+Allow: /
 
 User-agent: Googlebot
-Disallow: /*.gif$
+Allow: /*.gif$
 
 Sitemap: https://hokstack.io/sitemap.xml
